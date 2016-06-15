@@ -295,7 +295,7 @@ class API(meta.MetaMixin):
 class TastyPieAPI(API):
     """
     This class implements an API client, specifically tailored for
-    interfacing with `TastyPie <http://django-tastypie.readthedocs.org/en/latest>`_.
+    interfacing with `TastyPie <https://django-tastypie.readthedocs.io/en/latest>`_.
     
     Optional / Meta Arguments:
     
@@ -364,7 +364,7 @@ class TastyPieAPI(API):
         api.users.post(data_dict)
         api.users.delete(<pk>)
         
-    What about filtering? (these depend on how the `API is configured <http://django-tastypie.readthedocs.org/en/latest/resources.html#basic-filtering>`_):
+    What about filtering? (these depend on how the `API is configured <https://django-tastypie.readthedocs.io/en/latest/resources.html#basic-filtering>`_):
     
     .. code-block:: python
     
@@ -411,7 +411,7 @@ class TastyPieAPI(API):
         """
         This authentication mechanism adds an Authorization header for 
         user/api_key per the 
-        `TastyPie Documentation <http://django-tastypie.readthedocs.org/en/latest/authentication_authorization.html>`_.
+        `TastyPie Documentation <https://django-tastypie.readthedocs.io/en/latest/authentication.html>`_.
                         
         Required Arguments:
         

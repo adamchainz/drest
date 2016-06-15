@@ -246,7 +246,7 @@ class RESTResourceHandler(ResourceHandler):
 class TastyPieResourceHandler(RESTResourceHandler):
     """
     This class implements the IResource interface, specifically tailored for
-    interfacing with `TastyPie <http://django-tastypie.readthedocs.org/en/latest>`_.
+    interfacing with `TastyPie <https://django-tastypie.readthedocs.io/en/latest>`_.
 
     """
     class Meta:

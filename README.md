@@ -19,7 +19,7 @@ Features include:
 More Information
 ----------------
 
- * RTFD: http://drest.rtfd.org/
+ * RTFD: https://drest.readthedocs.io/
  * CODE: http://github.com/datafolklabs/drest/
  * PYPI: http://pypi.python.org/pypi/drest/
  * T-CI: http://travis-ci.org/datafolklabs/drest/

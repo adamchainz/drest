@@ -450,7 +450,7 @@ class RequestHandler(meta.MetaMixin):
 class TastyPieRequestHandler(RequestHandler):
     """
     This class implements the IRequest interface, specifically tailored for
-    interfacing with `TastyPie <http://django-tastypie.readthedocs.org/en/latest>`_.
+    interfacing with `TastyPie <https://django-tastypie.readthedocs.io/en/latest>`_.
 
     See :mod:`drest.request.RequestHandler` for Meta options and usage.
 

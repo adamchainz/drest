@@ -24,7 +24,7 @@ Key Features:
 
 Additional Links:
 
-    * RTFD: `http://drest.rtfd.org/ <http://drest.rtfd.org/>`_
+    * RTFD: `https://drest.readthedocs.io/ <https://drest.readthedocs.io/>`_
     * CODE: `http://github.com/datafolklabs/drest/ <http://github.com/datafolklabs/drest/>`_
     * PYPI: `http://pypi.python.org/pypi/drest/ <http://pypi.python.org/pypi/drest/>`_
     * T-CI: `http://travis-ci.org/#!/datafolklabs/drest <http://travis-ci.org/#!/datafolklabs/drest>`_
